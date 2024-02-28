@@ -1,0 +1,203 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SupermercadoMDDII
+build_property.RootNamespace = SupermercadoMDDII
+build_property.ProjectDir = C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Acceso/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Acceso/Registrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlZ2lzdHJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Asistencia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpc3RlbmNpYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Asistencia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpc3RlbmNpYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Asistencia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpc3RlbmNpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/DetalleVenta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVZlbnRhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/DetalleVenta/Facturas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVZlbnRhXEZhY3R1cmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/DetalleVenta/ReporteIngresos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZVZlbnRhXFJlcG9ydGVJbmdyZXNvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/EstadoPedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/EstadoPedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/EstadoPedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/EstadoPedido/ReporteEgresos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvUGVkaWRvXFJlcG9ydGVFZ3Jlc29zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Home/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Pedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Pedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Pedido/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Pedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Producto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Producto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Producto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Proveedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Proveedor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Proveedor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Proveedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Venta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Venta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tanya/OneDrive/Escritorio/UCE/sexto/marcos 2/PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002/SupermercadoMDDII/SupermercadoMDDII/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ontrlf77hs

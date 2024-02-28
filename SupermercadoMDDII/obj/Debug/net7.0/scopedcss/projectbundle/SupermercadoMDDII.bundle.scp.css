@@ -1,0 +1,49 @@
+/* _content/SupermercadoMDDII/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ontrlf77hs] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ontrlf77hs] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ontrlf77hs] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ontrlf77hs], .nav-pills .show > .nav-link[b-ontrlf77hs] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ontrlf77hs] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ontrlf77hs] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ontrlf77hs] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ontrlf77hs] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ontrlf77hs] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

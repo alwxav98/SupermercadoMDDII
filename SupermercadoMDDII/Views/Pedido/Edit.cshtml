@@ -1,0 +1,119 @@
+﻿@model SupermercadoMDDII.Models.PedidoModel
+
+@section Estilos {
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+@section Scripts {
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    <script src="~/js/vistas/datatables-demo.js"></script>
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Editar Pedido</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-3">
+            </div>
+
+        </div>
+        <hr />
+
+        <div class="row">
+            <div class="col-sm-12">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly"></div>
+                    <input type="hidden" asp-for="Idpedido" />
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-row">
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="Idproducto" class="text-danger"></span>
+                                    <label asp-for="Idproducto" class="control-label">ID del producto</label>
+                                    <select name="Idproducto" class="form-control" asp-items="ViewBag.ListaProductos"></select>
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="Idproveedor" class="text-danger"></span>
+                                    <label asp-for="Idproveedor" class="control-label">ID del proveedor</label>
+                                    <select name="Idproveedor" class="form-control" asp-items="ViewBag.ListaProveedores"></select>
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="cantidad" class="text-danger"></span>
+                                    <label asp-for="cantidad" class="control-label">Cantidad</label>
+                                    <input class="form-control" asp-for="cantidad"/>
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="precioU" class="text-danger"></span>
+                                    <label asp-for="precioU" class="control-label">Precio Unitario</label>
+                                    <input class="form-control" asp-for="precioU"/>
+                                </div>
+
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="fechaEntrega" class="text-danger"></span>
+                                    <label asp-for="fechaEntrega" class="control-label">Fecha de Entrega</label>
+                                    <input class="form-control" asp-for="fechaEntrega" type="date" />
+                                </div>
+                                <div class="col-sm-3">
+                                    <div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-1">
+                                    <div>
+                                        <input type="submit" value="Grabar" />
+
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-1">
+                                    <form asp-action="Index">
+                                        <button class="btn btn-danger btn-sm" type="submit">Cancelar</button>
+                                    </form>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </form>
+                
+
+
+
+            </div>
+
+        
+    </div>
+</div>
+
+

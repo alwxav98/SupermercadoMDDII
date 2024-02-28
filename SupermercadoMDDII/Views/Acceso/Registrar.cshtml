@@ -1,0 +1,95 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js"></script>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="c:\users\kenne\videos\supermercadomddii\supermercadomddii\wwwroot\css\stylesheet.css" rel="stylesheet" />
+    <style>
+        /* CSS personalizado para cambiar el color de fondo a azul */
+        body {
+            background-color: #4c30ba; /* Azul */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #login-box {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<div id="login-box">
+    <h3 class="text-center text-info">Sistema Integral Supermercado</h3>
+    <div class="container">
+        <form id="login-form" class="form" action="@Url.Action("Registrar","Acceso")" method="post">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="cedula" class="text-info">Cedula:</label><br>
+                        <input type="text" name="cedula" id="cedula" class="form-control" required minlength="10" maxlength="10">
+                    </div>
+                    <div class="form-group">
+                        <label for="nombre" class="text-info">Nombre:</label><br>
+                        <input type="text" name="nombre" id="nombre" class="form-control" required minlength="3" maxlength="50">
+                    </div>
+                    <div class="form-group">
+                        <label for="apellido" class="text-info">Apellido:</label><br>
+                        <input type="text" name="apellido" id="apellido" class="form-control" required minlength="3" maxlength="50">
+                    </div>
+                    <div class="form-group">
+                        <label for="direccion" class="text-info">Direccion:</label><br>
+                        <input type="text" name="direccion" id="direccion" class="form-control" required minlength="3" maxlength="100">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="telefono" class="text-info">Telefono:</label><br>
+                        <input type="text" name="telefono" id="telefono" class="form-control" required minlength="10" maxlength="10" pattern="\d*">
+                    </div>
+                    <div class="form-group">
+                        <label for="correo" class="text-info">Correo:</label><br>
+                        <input type="email" name="correo" id="correo" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password" class="text-info">Contraseña:</label><br>
+                        <input type="password" name="clave" id="password" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="esActivo" class="text-info">Activo:</label><br>
+                        <select name="esActivo" id="esActivo" class="form-control" required>
+                            <option value="">Seleccionar</option>
+                            <option value="true">true</option>
+                            <option value="false">false</option>
+                        </select>
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" name="submit" class="btn btn-info btn-md" value="submit">
+            </div>
+            <div id="register-link" class="text-right">
+                <a href="@Url.Action("Login","Acceso")" class="text-info">Volver</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+</html>

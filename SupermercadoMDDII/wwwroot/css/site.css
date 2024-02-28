@@ -1,0 +1,41 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+.background-container {
+    background-image: url('img/fondo.jpg');
+    background-size: cover; /* ajusta la imagen al tamaño del contenedor */
+    background-position: center; /* centra la imagen */
+    background-repeat: no-repeat; /* evita que la imagen se repita */
+    min-height: 100vh; /* establece una altura mínima del 100% del viewport */
+    display: flex; /* permite que los elementos hijos se alineen verticalmente */
+    align-items: center; /* centra verticalmente el contenido */
+    justify-content: center; /* centra horizontalmente el contenido */
+    text-align: center; /* centra el texto horizontalmente */
+}
+
+.content {
+    background-color: rgba(255, 255, 255, 0.8); /* color de fondo semi-transparente para mejorar la legibilidad del texto */
+    padding: 20px;
+    border-radius: 10px; /* bordes redondeados para el contenedor del contenido */
+}

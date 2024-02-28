@@ -1,0 +1,880 @@
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+C:\Users\JUANK-PC\Documents\FERNANDO\MARCOS DE DESARROLLO II\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\kenne\Escritorio\a ver\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\Erick1509\Downloads\ProyectoMarcosKenneth\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\Supermer.189D6E53.Up2Date
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\JULIAN\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+E:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+D:\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\fing.labcom\Downloads\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\SEBPE\Downloads\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\tanya\OneDrive\Escritorio\PROYECTO VALIDACIONES\PROYECTO VALIDACIONES\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\appsettings.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.staticwebassets.runtime.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.exe
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.deps.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.runtimeconfig.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MailKit.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\MimeKit.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.AssemblyReference.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfoInputs.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.AssemblyInfo.cs
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CoreCompileInputs.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.RazorAssemblyInfo.cs
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.SupermercadoMDDII.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.build.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SupermercadoMDDII.props
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\bundle\SupermercadoMDDII.styles.css
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\scopedcss\projectbundle\SupermercadoMDDII.bundle.scp.css
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.csproj.CopyComplete
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\refint\SupermercadoMDDII.dll
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.pdb
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\SupermercadoMDDII.genruntimeconfig.cache
+C:\Users\tanya\OneDrive\Escritorio\UCE\sexto\marcos 2\PF_Cajamarca_Perez_Pulupa_Taipe_Tipan_Vaca_Yaguana_SIS6-002\SupermercadoMDDII\SupermercadoMDDII\obj\Debug\net7.0\ref\SupermercadoMDDII.dll

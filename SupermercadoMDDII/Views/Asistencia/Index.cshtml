@@ -1,0 +1,108 @@
+﻿@model IEnumerable<SupermercadoMDDII.Models.AsistenciaModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Estilos {
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+
+@section Scripts {
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+
+
+
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    <script src="~/js/vistas/datatables-demo.js"></script>
+}
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Lista de Asistencias</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-3">
+
+                <button class="btn btn-success" onclick="location.href='@Url.Action("Create", "Asistencia")'">
+                    <i class="fas fa-user-plus"></i> Registrar Asistencia
+                </button>
+
+
+
+
+            </div>
+
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-sm-12">
+
+                <table class="table table-bordered" id="tbdata" cellspacing="0" style="width:100%">
+                    <thead>
+                        <tr>
+                        <tr>
+                            <th>Id</th>
+                            <th>Id Usuario</th>
+                            <th>Hora de entrada</th>
+                            <th>Hora de salida</th>
+                            <th>Horas Extra</th>
+                            <th>Acciones</th>
+                        </tr>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.Idasistencia)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.Idusuario)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.ingreso)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.salida)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.horasExtra)
+                                </td>
+                                <td>
+                                    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.Idasistencia">
+                                        @* <i class="fas fa-pencil-alt"></i> *@Registrar Salida
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+                @*        </div>
+                </div>
+                </div>
+                </div>
+
+                *@

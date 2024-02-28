@@ -1,0 +1,139 @@
+﻿@model IEnumerable<SupermercadoMDDII.Models.FacturaViewModel>
+
+@section Estilos {
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+@section Scripts {
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    <script src="~/js/vistas/datatables-demo.js"></script>
+   @*  <script>
+        $(document).ready(function () {
+            $('#editForm').submit(function () {
+                // Obtener el ID del proveedor seleccionado
+                var proveedorId = $('#Idproveedor').val();
+                // Llamar a la acción para verificar el stock y enviar el correo electrónico
+                $.ajax({
+                    url: '@Url.Action("CheckStockAndSendEmail", "Proveedor")',
+                    type: 'POST',
+                    data: { proveedorId: proveedorId },
+                    success: function (response) {
+                        console.log('Correo enviado');
+                    },
+                    error: function (xhr, status, error) {
+                        console.error('Error al enviar el correo electrónico');
+                    }
+                });
+            });
+        });
+    </script> *@
+
+}
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Factura</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-3">
+                <p><strong>Cliente:</strong> @Model.FirstOrDefault().NombreCliente @Model.FirstOrDefault().ApellidoCliente</p>
+                <p><strong>Fecha:</strong> @Model.FirstOrDefault().FechaVenta </p>
+                <!-- Asegúrate de manejar el caso en que no haya ningún detalle de factura disponible -->
+            </div>
+
+        </div>
+        <hr />
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div>
+
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-row">
+                                <div class="form-group col-sm-4">
+                                   
+                                </div>
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>Cantidad</th>
+                                            <th>Descripcion</th>
+                                            <th>Precio Unitario</th>
+                                            <th>SubTotal</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>@item.Cantidad</td>
+                                                <td>@item.NombreProducto</td>
+                                                <td>@item.PrecioUnitario</td>
+                                                <td>@item.Total</td>
+                                            </tr>
+                                        }
+                                        <tr>
+                                            <td colspan="3"></td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2"></td>
+                                            <td style="color: red;"><strong>Subtotal:</strong></td>
+                                            <td style="color: red;">@Model.Sum(x => x.Total)</td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2"></td>
+                                            <td style="color: red;"><strong>Impuesto:</strong></td>
+                                            <td style="color: red;">@(Model.Sum(x => x.Total) * 0.12m)</td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2"></td>
+                                            <td style="color: red;"><strong>Total:</strong></td>
+                                            <td style="color: red;">@(Model.Sum(x => x.Total) + Model.Sum(x => x.Total) * 0.12m)</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div class="row justify-content-end">
+
+
+                                    <div class="col-sm-3">
+                                       @*  <form asp-action="Index"> *@
+                                            @* <button class="btn btn-danger btn-sm"  type="submit" href="@Url.Action("ReporteEgresos","EstadoPedido">Ver Historial</button> *@
+                                        @* </form> *@
+                                        <form method="get" action="@Url.Action("Index","Venta")">
+                                            <button class="btn btn-danger btn-sm" type="submit">Ver Historial</button>
+                                        </form>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+

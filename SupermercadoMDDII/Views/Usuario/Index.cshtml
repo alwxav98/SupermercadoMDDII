@@ -1,0 +1,131 @@
+﻿@model IEnumerable<SupermercadoMDDII.Models.UsuarioModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Estilos {
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+
+@section Scripts {
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+
+
+
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    <script src="~/js/vistas/datatables-demo.js"></script>
+}
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Lista de Usuarios</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-3">
+
+                <button class="btn btn-success" onclick="location.href='@Url.Action("Create", "Usuario")'">
+                    <i class="fas fa-user-plus"></i> Nuevo Usuario
+                </button>
+
+
+
+
+            </div>
+
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-sm-12">
+
+                <table class="table table-bordered" id="tbdata" cellspacing="0" style="width:100%">
+                    <thead>
+                        <tr>
+                        <tr>
+                            <th>Id</th>
+                            <th>Cedula</th>
+                            <th>Nombre</th>
+                            <th>Apellido</th>
+                            <th>Direccion</th>
+                            <th>Telefono</th>
+                            <th>Correo</th>
+                            <th>Sueldo</th>
+                            <th>Rol</th>
+                            <th>Estado</th>
+                            <th>Acciones</th>
+                        </tr>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.Idusuario)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.cedula)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.nombre)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.apellido)
+
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.direccion)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.telefono)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.correo)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.sueldo)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.rol)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.esActivo)
+                                </td>
+
+                                <td>
+                                    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.Idusuario">
+                                        <i class="fas fa-pencil-alt"></i>
+                                    </a>
+                                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Idusuario">
+                                        <i class="fas fa-trash-alt"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

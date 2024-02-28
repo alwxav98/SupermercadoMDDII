@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\detalleventa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\detalleventa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\venta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\venta\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\venta\\detalleventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\venta\\detalleventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\controllers\\detalleventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\controllers\\detalleventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\venta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\venta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\controllers\\estadopedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\controllers\\estadopedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\storagepc\\validarusuario.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\storagepc\\validarusuario.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\storagepc\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\storagepc\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\models\\supermercadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\models\\supermercadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\models\\ventamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\models\\ventamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\wwwroot\\js\\vistas\\datatables-demo1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\wwwroot\\js\\vistas\\datatables-demo1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\wwwroot\\js\\vistas\\datatables-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\wwwroot\\js\\vistas\\datatables-demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\storagepc\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\storagepc\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\storagepc\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\storagepc\\sqlquery4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\storagepc\\validarusuario.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\storagepc\\validarusuario.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|c:\\users\\julian\\downloads\\supermercadomddii\\supermercadomddii\\storagepc\\validarusuario.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{9CAEDBE7-C2D2-4743-8E85-8E4A4327A056}|SupermercadoMDDII\\SupermercadoMDDII.csproj|solutionrelative:supermercadomddii\\storagepc\\validarusuario.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\DetalleVenta\\Create.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\DetalleVenta\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\DetalleVenta\\Create.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\DetalleVenta\\Create.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T16:38:08.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Venta\\Create.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\Venta\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Venta\\Create.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\Venta\\Create.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T16:29:27.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Venta\\DetalleVenta.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\Venta\\DetalleVenta.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Venta\\DetalleVenta.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\Venta\\DetalleVenta.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T16:11:02.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T15:35:44.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SupermercadoMDDII\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:51:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleVentaController.cs",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\DetalleVentaController.cs",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Controllers\\DetalleVentaController.cs",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\DetalleVentaController.cs",
+              "RelativeToolTip": "SupermercadoMDDII\\Controllers\\DetalleVentaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T15:41:06.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T16:13:01.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "SQLQuery2.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-22T16:23:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Venta\\Index.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\Venta\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Venta\\Index.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\Venta\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T16:29:01.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsistenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\AsistenciaController.cs",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Controllers\\AsistenciaController.cs",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\AsistenciaController.cs",
+              "RelativeToolTip": "SupermercadoMDDII\\Controllers\\AsistenciaController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T15:36:58.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EstadoPedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\EstadoPedidoController.cs",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Controllers\\EstadoPedidoController.cs",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\EstadoPedidoController.cs",
+              "RelativeToolTip": "SupermercadoMDDII\\Controllers\\EstadoPedidoController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAKkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T15:09:35.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T15:35:10.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "SupermercadoMDDII\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T15:36:59.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T15:35:06.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-22T15:32:59.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLQuery4.sql ",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\StoragePc\\SQLQuery4.sql",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\StoragePc\\SQLQuery4.sql",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\StoragePc\\SQLQuery4.sql",
+              "RelativeToolTip": "SupermercadoMDDII\\StoragePc\\SQLQuery4.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-22T14:51:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\appsettings.json",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\appsettings.json",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\appsettings.json",
+              "RelativeToolTip": "SupermercadoMDDII\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T14:52:00.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VentaModel.cs",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Models\\VentaModel.cs",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Models\\VentaModel.cs",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Models\\VentaModel.cs",
+              "RelativeToolTip": "SupermercadoMDDII\\Models\\VentaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:51:34.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SupermercadoContext.cs",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Models\\SupermercadoContext.cs",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Models\\SupermercadoContext.cs",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Models\\SupermercadoContext.cs",
+              "RelativeToolTip": "SupermercadoMDDII\\Models\\SupermercadoContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:53:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidarUsuario.sql ",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\StoragePc\\ValidarUsuario.sql",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\StoragePc\\ValidarUsuario.sql",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\StoragePc\\ValidarUsuario.sql",
+              "RelativeToolTip": "SupermercadoMDDII\\StoragePc\\ValidarUsuario.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-22T15:20:39.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "datatables-demo1.js",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\wwwroot\\js\\vistas\\datatables-demo1.js",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\wwwroot\\js\\vistas\\datatables-demo1.js",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\wwwroot\\js\\vistas\\datatables-demo1.js",
+              "RelativeToolTip": "SupermercadoMDDII\\wwwroot\\js\\vistas\\datatables-demo1.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-22T14:51:34.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "datatables-demo.js",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\wwwroot\\js\\vistas\\datatables-demo.js",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\wwwroot\\js\\vistas\\datatables-demo.js",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\wwwroot\\js\\vistas\\datatables-demo.js",
+              "RelativeToolTip": "SupermercadoMDDII\\wwwroot\\js\\vistas\\datatables-demo.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-22T14:51:34.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "SupermercadoMDDII\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JULIAN\\Downloads\\SupermercadoMDDII\\SupermercadoMDDII\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "SupermercadoMDDII\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T14:51:34.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

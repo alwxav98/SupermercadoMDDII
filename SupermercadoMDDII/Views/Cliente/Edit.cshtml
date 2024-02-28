@@ -1,0 +1,120 @@
+﻿@model SupermercadoMDDII.Models.ClienteModel
+@section Estilos {
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+@section Scripts {
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    <script src="~/js/vistas/datatables-demo.js"></script>
+
+
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Editar Cliente</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-3">
+            </div>
+
+        </div>
+        <hr />
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div>
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly"></div>
+                        <input type="hidden" asp-for="Idcliente" />
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-row">
+                                    <div class="form-group col-sm-4">
+                                        <span asp-validation-for="cedula" class="text-danger"></span>
+                                        <label asp-for="cedula" class="control-label">Cedula</label>
+                                        <input class="form-control" asp-for="cedula" readonly />
+                                    </div>
+                                    <div class="form-group col-sm-4">
+                                        <span asp-validation-for="nombre" class="text-danger"></span>
+                                        <label asp-for="nombre" class="control-label">Nombre</label>
+                                        <input asp-for="nombre" class="form-control" type="text" />
+                                    </div>
+                                    <div class="form-group col-sm-4">
+                                        <span asp-validation-for="apellido" class="text-danger"></span>
+                                        <label asp-for="apellido" class="control-label">Apellido</label>
+                                        <input asp-for="apellido" class="form-control" type="text" />
+                                    </div>
+                                    <div class="form-group col-sm-4">
+                                        <span asp-validation-for="direccion" class="text-danger"></span>
+                                        <label asp-for="direccion" class="control-label">Direccion</label>
+                                        <input asp-for="direccion" class="form-control" type="text" />
+                                    </div>
+
+                                    <div class="form-group col-sm-4">
+                                        <span asp-validation-for="telefono" class="text-danger"></span>
+                                        <label asp-for="telefono" class="control-label">Telefono</label>
+                                        <input asp-for="telefono" class="form-control" type="text" />
+                                    </div>
+                                    <div class="form-group col-sm-4">
+                                        <span asp-validation-for="puntosRecompensa" class="text-danger"></span>
+                                        <label asp-for="puntosRecompensa" class="control-label">Puntos de Recompensa</label>
+                                        <input asp-for="puntosRecompensa" class="form-control" type="number" />
+                                    </div>
+
+                                    <div class="col-sm-3">
+                                        <div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3">
+                                        <div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-sm-1">
+                                        <div>
+                                            <input type="submit" value="Grabar" />
+
+                                        </div>
+                                    </div>
+
+                                    <div class="col-sm-1">
+                                        <form asp-action="Index">
+                                            <button class="btn btn-danger btn-sm" type="submit">Cancelar</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+

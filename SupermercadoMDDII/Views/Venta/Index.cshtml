@@ -1,0 +1,112 @@
+﻿@model IEnumerable<SupermercadoMDDII.Models.VentaModel>
+@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Estilos {
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+
+@section Scripts {
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+    <script src="~/js/vistas/datatables-demo1.js"></script>
+
+
+
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    <script src="~/js/vistas/datatables-demo.js"></script>
+}
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Lista de Ventas</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-3">
+
+                <button class="btn btn-success" onclick="location.href='@Url.Action("Create", "Venta")'">
+                    <i class="fas fa-user-plus"></i> Nueva Venta
+                </button>
+
+
+
+
+            </div>
+
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-sm-12">
+
+                <table class="table table-bordered" id="tbdata1" cellspacing="0" style="width:100%">
+                    <thead>
+                        <tr>
+                        <tr>
+                            <th>ID</th>
+                            <th>ID Usuario</th>
+                            <th>ID Cliente</th>
+                            <th>Sub Total</th>
+                            <th>Impuesto Total</th>
+                            <th>Total</th>
+                            <th>Fecha Registro</th> 
+
+                        </tr>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.Idventa)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.Idusuario)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.Idcliente)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.subTotal)
+
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.impuestoTotal)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.Total)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelitem => item.fechaRegistro)
+                                </td>
+
+                                
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

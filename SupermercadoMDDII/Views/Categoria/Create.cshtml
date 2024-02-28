@@ -1,0 +1,91 @@
+﻿@model SupermercadoMDDII.Models.CategoriaModel
+
+@section Estilos {
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+@section Scripts {
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    <script src="~/js/vistas/datatables-demo.js"></script>
+}
+
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Nueva Categoria</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-3">
+            </div>
+
+        </div>
+        <hr />
+
+        <div class="row">
+            <div class="col-sm-12">
+                <form asp-action="Create" id="formCreate">
+                    <input type="hidden" value="0" id="txtId">
+                    <div asp-validation-summary="ModelOnly"></div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-row">
+
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="descripcion" class="text-danger"></span>
+                                    <label asp-for="descripcion" class="control-label">Ingrese la descripción</label>
+                                    <input asp-for="descripcion" class="form-control" type="text" />
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <label class="control-label">Impuesto</label>
+                                    <select name="impuesto" class="form-control">
+                                        <option value="0.5">5%</option>
+                                        <option value="0.1">10%</option>
+                                        <option value="0.12">12%</option>
+                                    </select>
+                                    <span asp-validation-for="impuesto"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+
+
+
+            </div>
+
+        </div>
+        <hr />
+        <div class="row justify-content-end">
+            <div class="col-sm-1">
+                <button type="submit" form="formCreate" class="btn btn-primary btn-sm">Guardar</button>
+            </div>
+            <div class="col-sm-1">
+                <form asp-action="Index">
+                    <button class="btn btn-danger btn-sm" type="submit">Cancelar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

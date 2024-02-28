@@ -1,0 +1,125 @@
+﻿@model SupermercadoMDDII.Models.ProductoModel
+
+@section Estilos {
+    <!-- ============================================================
+    =ESTILOS PARA ESTA PAGINA
+    ===============================================================-->
+    <link rel="stylesheet" href="~/vendor/datatables/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="~/vendor/datatables/extensiones/css/buttons.dataTables.min.css">
+
+}
+@section Scripts {
+    <!-- ============================================================
+    =SCRIPTS PARA ESTA PAGINA
+    ===============================================================-->
+    <script src="~/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.responsive.min.js"></script>
+
+    <script src="~/vendor/datatables/extensiones/js/dataTables.buttons.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/jszip.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.html5.min.js"></script>
+    <script src="~/vendor/datatables/extensiones/js/buttons.print.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <!-- SOLO ES DE EJEMPLO - IGNORAR -->
+    <script src="~/js/vistas/datatables-demo.js"></script>
+}
+
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Nuevo Producto</h6>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-sm-3">
+            </div>
+
+        </div>
+        <hr />
+
+        <div class="row">
+            <div class="col-sm-12">
+                <form asp-action="Create" id="formCreate">
+                    <input type="hidden" value="0" id="txtId">
+                    <div asp-validation-summary="ModelOnly"></div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-row">
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="codigoBarra" class="text-danger"></span>
+                                    <label asp-for="codigoBarra" class="control-label">Codigo de Barra</label>
+                                    <input class="form-control" asp-for="codigoBarra" type="text" />
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="marca" class="text-danger"></span>
+                                    <label asp-for="marca" class="control-label">Marca</label>
+                                    <input class="form-control" asp-for="marca" type="text" />
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="descripcion" class="text-danger"></span>
+                                    <label asp-for="descripcion" class="control-label">Descripcion del producto</label>
+                                    <input class="form-control" asp-for="descripcion" type="text" />
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="Idcategoria" class="text-danger"></span>
+                                    <label asp-for="Idcategoria" class="control-label">ID de la categoria</label>
+                                    <select name="Idcategoria" class="form-control" asp-items="ViewBag.ListaCategorias"></select>
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="Idproveedor" class="text-danger"></span>
+                                    <label asp-for="Idproveedor" class="control-label">ID del proveedor</label>
+                                    <select name="Idproveedor" class="form-control" asp-items="ViewBag.ListaProveedores"></select>
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="stock" class="text-danger"></span>
+                                    <label asp-for="stock" class="control-label">Stock</label>
+                                    <input class="form-control" asp-for="stock"/>
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="precio" class="text-danger"></span>
+                                    <label asp-for="precio" class="control-label">Precio Unitario</label>
+                                    <input class="form-control" asp-for="precio"/>
+                                </div>
+                                
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="fechaCaducidad" class="text-danger"></span>
+                                    <label asp-for="fechaCaducidad" class="control-label">Fecha de Caducidad</label>
+                                    <input class="form-control" asp-for="fechaCaducidad" type="date" />
+                                </div>
+                                <div class="form-group col-sm-4">
+                                    <span asp-validation-for="esActivo" class="text-danger"></span>
+                                    <label asp-for="esActivo" class="control-label">Estado</label>
+                                    <input class="form-control" asp-for="esActivo" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+
+
+
+            </div>
+
+        </div>
+        <hr />
+        <div class="row justify-content-end">
+            <div class="col-sm-1">
+                <button type="submit" form="formCreate" class="btn btn-primary btn-sm">Guardar</button>
+            </div>
+            <div class="col-sm-1">
+                <form asp-action="Index">
+                    <button class="btn btn-danger btn-sm" type="submit">Cancelar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

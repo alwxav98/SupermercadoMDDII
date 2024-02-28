@@ -1,0 +1,30 @@
+version: '3.4'
+ 
+networks:
+  demoproyectoapp:
+ 
+services:
+  demoappdb:
+    container_name: app-db
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
+      - 8002:1433   
+    environment:
+      - ACCEPT_EULA=Y  
+      - SA_PASSWORD=Alexander2198
+    networks:
+      - demoproyectoapp
+  supermercadomddii:
+    container_name: proyecto_Marcos
+    image: ${DOCKER_REGISTRY-}supermercadomddii
+    build:
+      context: .
+      dockerfile: supermercadomddii/Dockerfile
+    ports:
+      - 8081:80
+    depends_on:
+      - demoappdb
+    environment:
+      - DB_SA_PASSWORD=Alexander2198
+    networks:
+      - demoproyectoapp
